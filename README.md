@@ -1,4 +1,4 @@
-#6Companies30Days Challenge
+<h1>#6Companies30Days Challenge</h1><hr>
 
 Overview
 This repository is dedicated to the #6Companies30Days Challenge, where i will solve 15 Data Structures and Algorithms (DSA) problems every 5 days, completing a total of 90 questions in 30 days.
